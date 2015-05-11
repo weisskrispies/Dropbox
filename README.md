@@ -20,4 +20,4 @@ Additional Functionality Added:
 * Existing users can manually enter their user name and password
 * Within Files, user can go into the CodePath folder, swipe right on the first file (not interactive), and favorite the file
 
-
+<img src="https://lh5.googleusercontent.com/-t30UAlTBzqY/VVA2eaBrZ0I/AAAAAAAADNc/R34S0Tnul0w/w632-h1122-no/Dropbox.gif" alt="" width="300">
