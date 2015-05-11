@@ -3,7 +3,7 @@ Week 1 CodePath assignment
 
 This is an iOS application that allows you to calculate your tip and total bill amounts based on the cost of the meal. 
 
-Time spent: 11 hours (so far)
+Time spent: 12 hours (+6 hours on Treehouse :)
 
 Baseline Functionality:
 * User can navigate through the 3 welcome screens
